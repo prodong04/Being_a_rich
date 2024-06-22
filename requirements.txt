@@ -1,0 +1,6 @@
+pyupbit 
+stable-baselines3
+pandas
+gym
+numpy
+gymnasium
